@@ -1,4 +1,23 @@
-# sw-forecast-protocol
+# Community built protocol for the application of AI to Space Weather Forcast
+
+## Motivation
+
+In the understanding that space weather forecasting has clear challenges, and we as a community can benefit from clear guidelines and protocols, this document is meant to act as a community-mantained repository of best practices and protocols that ensure our work is comparable and follows standards that lead to true progress.
+
+## Rules
+
+Pull requests are accepted from any party that has engaged in legitimate space weather forecast.  This includes, but it is not limited to:
+
+- Published work on space weather forecast.
+- Work as part of a space weather forecasting center/group (e.g. NOAA/SWPC).
+
+All
+
+## Moderation
+
+We are openly looking for mantainers that can evaluate and merge pull requests.  If interested, please let us know.
+
+
 
 
 
