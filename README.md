@@ -1,4 +1,4 @@
-# Community built protocol for the application of AI to Space Weather Forcast
+# Community built protocol for the application of AI to Space Weather Forecast
 
 ## Motivation
 
