@@ -6,12 +6,14 @@ In the understanding that space weather forecasting has clear challenges, and we
 
 ## Rules
 
+All contributions should be constructive and discussion is encouraged as github issues.  All parties involved should engage in good faith and always with the advancement of space weather as the number 1 priority.
+
+No form of harassment and/or discrimination is acceptable.
+
 Pull requests are accepted from any party that has engaged in legitimate space weather forecast.  This includes, but it is not limited to:
 
 - Published work on space weather forecast.
-- Work as part of a space weather forecasting center/group (e.g. NOAA/SWPC).
-
-All
+- Membership on a space weather forecasting center/group (e.g. NOAA/SWPC).
 
 ## Moderation
 
@@ -19,7 +21,7 @@ We are openly looking for mantainers that can evaluate and merge pull requests. 
 
 
 
-
+## Protocol
 
 1. Before any development takes place, set aside two test sets: one operational and one cycle-agnostic.  These sets should not be interacted with until all design decisions have been made and it is time to publish the results of the study.  We suggest setting aside the last two years of available data for an operational test and two months each year for the cycle-agnostic test. Random splitting of samples is not a valid way to construct a test set due to temporal leakage. Removing C flares or otherwise balancing the test data is not an operational test.
 2. Use the remainder of the data to train an ensemble of models.  Each ensemble member can be exposed to different random seeds, different training-validation splits, etc.
